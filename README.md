@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/anthonydoan2001">Anthony Doan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hello, I'm </b><a href="https://github.com/anthonydoan2001">Anthony Doan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <h3 align="center">Computer Science Graduate | IT Professional | Full Stack Developer</h3>
 <p align="center">
   <i>Computer Technician @ Secure ITAD Services, Inc.</i>
