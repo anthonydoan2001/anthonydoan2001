@@ -1,9 +1,11 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1><b>Hi there, I'm </b><a href="https://github.com/anthonydoan2001">Anthony Doan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br>
-Computer Science Graduate | IT Professional | Full Stack Developer
-<p><small><i>Computer Technician @ Secure ITAD Services, Inc.<br>
-University of Houston - B.S. Computer Science (2024)</i></small></p>
+<h3 align="center">Computer Science Graduate | IT Professional | Full Stack Developer</h3>
+<p align="center">
+  <i>Computer Technician @ Secure ITAD Services, Inc.</i>
+  <br>
+  <i>University of Houston - B.S. Computer Science (2024)</i>
+</p>
 <h2>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"/>
   &nbsp;About Me
@@ -24,9 +26,7 @@ University of Houston - B.S. Computer Science (2024)</i></small></p>
   <a href="https://anthonydoan.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
 <br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Skills
-
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 #### Languages & Frameworks
@@ -35,12 +35,9 @@ University of Houston - B.S. Computer Science (2024)</i></small></p>
 #### Tools & Infrastructure
 <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,powershell,linux,ubuntu,windows,mysql,postgres,supabase,azure&perline=15" />
 
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats
-
+</br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonydoan2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
