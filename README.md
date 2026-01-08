@@ -12,11 +12,6 @@
 </h2>
 <img align="right" width=200px alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 📚 I'm currently learning ...
-  - *CompTIA Network+ Certification*
-- 🚀 I'm eager to join new projects and advance into IT and system administration roles.
-- ✔ Feel free to ask me anything! I'm motivated to help others.
-- Outside work, I enjoy working on my homelab, learning about servers and configuration, gaming, and reading manga/webnovels.
 - 📫 Reach out to me at: <a href="mailto:anthonydoanwork@gmail.com">anthonydoanwork@gmail.com</a>
 - 👨‍💻 Check out my portfolio at [anthonydoan.dev](https://anthonydoan.dev)
 
