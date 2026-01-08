@@ -13,12 +13,6 @@
 
 - 📫 Reach out to me at: <a href="mailto:anthonydoanwork@gmail.com">anthonydoanwork@gmail.com</a>
 - 👨‍💻 Check out my portfolio at [anthonydoan.dev](https://anthonydoan.dev)
-
-<div align="center">
-  <a href="mailto:anthonydoanwork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anthonyduydoan/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://anthonydoan.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</div>
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Skills
