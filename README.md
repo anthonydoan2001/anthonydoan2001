@@ -1,10 +1,9 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1><b>Hello, I'm </b><a href="https://github.com/anthonydoan2001">Anthony Doan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<h3 align="center">Computer Science Graduate | IT Professional | Full Stack Developer</h3>
+<h3 align="center">B.S. Computer Science | IT Professional | Full Stack Developer</h3>
 <p align="center">
   <i>Computer Technician @ Secure ITAD Services, Inc.</i>
   <br>
-  <i>University of Houston - B.S. Computer Science (2024)</i>
 </p>
 <h2>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"/>
@@ -30,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nodejs,html,css,tailwind,bash&perline=15" />
 
 #### Tools & Infrastructure
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,powershell,linux,ubuntu,windows,mysql,postgres,supabase,azure&perline=15" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,powershell,linux,ubuntu,windows,postgres,supabase,azure&perline=15" />
 
 <br>
 
