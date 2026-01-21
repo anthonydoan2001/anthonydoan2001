@@ -6,8 +6,7 @@
   <br>
 </p>
 <h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-  &nbsp;About Me
+  &nbsp;👨‍💻About Me
 </h2>
 <img align="right" width=200px alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
