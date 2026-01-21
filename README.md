@@ -10,8 +10,8 @@
 </h2>
 <img align="right" width=200px alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 📫 Reach out to me at: <a href="mailto:anthonydoanwork@gmail.com">anthonydoanwork@gmail.com</a>
-- 👨‍💻 Check out my portfolio at [anthonydoan.dev](https://anthonydoan.dev)
+- Reach out to me at <a href="mailto:anthonydoanwork@gmail.com">anthonydoanwork@gmail.com</a>
+- Check out my portfolio at [anthonydoan.dev](https://anthonydoan.dev)
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Skills
