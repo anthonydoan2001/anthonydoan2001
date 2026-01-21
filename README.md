@@ -22,7 +22,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nodejs,html,css,tailwind,bash&perline=15" />
 
 #### Tools & Infrastructure
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,powershell,linux,ubuntu,windows,postgres,supabase,azure&perline=15" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,linux,ubuntu,windows,postgres,supabase,azure&perline=15" />
 
 <br>
 
