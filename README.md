@@ -8,7 +8,6 @@
 <h2>
   &nbsp;👨‍💻About Me
 </h2>
-<img align="right" width=200px alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - Reach out to me at <a href="mailto:anthonydoanwork@gmail.com">anthonydoanwork@gmail.com</a>
 - Check out my portfolio at [anthonydoan.dev](https://anthonydoan.dev)
