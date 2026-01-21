@@ -6,7 +6,7 @@
   <br>
 </p>
 <h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWN5ZDN0dHd4YWh0eTJwaXFhbTV3YnhlMXNmcWN2aWpxOWgyYmFyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dWesBcTLavkZuG35MI/giphy.gif" width="35"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
   &nbsp;About Me
 </h2>
 <img align="right" width=200px alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
