@@ -1,4 +1,3 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1><b>Hello, I'm </b><a href="https://github.com/anthonydoan2001">Anthony Doan</a></h1>
 <h3 align="center">B.S. Computer Science | IT Professional | Full Stack Developer</h3>
 <p align="center">
